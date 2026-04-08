@@ -15,6 +15,7 @@ This project is built as part of the Hex Software Data Science Internship.
 - Streamlit
 - Pandas
 - Matplotlib
+- plotly
 
 # Run Project
 ```bash
